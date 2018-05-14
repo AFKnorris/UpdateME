@@ -1,18 +1,18 @@
 # Finalidade
 ## Navegante 🤘
 
-Temos como objetivo ajudar e insentivar a todos os usuários da internet a manterem-se seguros
-e apreciar do melhor serviço de qualidade e assim possa usufruir de o que essa grande rede tem pra dar  ✊.
+Temos como objetivo ajudar e incentivar a todos os usuários de internet a manterem-se seguros
+e apreciar do melhor serviço de qualidade e assim possa usufruir do que essa grande rede tem a oferecer  ✊.
 
 ## Desenvolvedor 🤘
 
 O nosso propósito é evitar que o usuário da internet seja danificado, e sabemos que a atualização de seus serviços influenciam
-tanto na performance quando na segurança de quem usa, mas não danifica o usuário apenas, também danifica a nós desenvolvedores.
+tanto na performance quando na segurança de quem usa, mas não prejudica ao usuário apenas, mas também a nós desenvolvedores.
 
-Para que evitasse os erros desenvolvemos técnicas que amenizem a falta de qualidade em navegadores desatualizados, e por esse motivo
+Para que se evitassem os erros desenvolvemos técnicas que amenizam a falta de qualidade em navegadores desatualizados, e por esse motivo
 existem técnicas como a utilização dos `prefix`'es, ou a utilização de enormes bibliotecas, utilizamos atualmente quatro prefixes para
-que uma página seja proxima a que planejamos em todos os navegadores, e possa incluir os antigos browseres, mas já pensou na possibilidade
-de um padrão de fato? Nós desenvolvedores temos vários padrões e isso é indiscutivelmente bastante eficiente, e nos faz criar soluções mais 
+que uma página seja proxima a que planejamos em todos os navegadores, e possa incluir browsers desatualizados, mas já pensou na possibilidade
+de ter de fato um padrão? Nós desenvolvedores temos vários padrões e isso é indiscutivelmente bastante eficiente, e nos faz criar soluções mais 
 práticas e seguras, e é esse o nosso propósito, o desenvolvedor deve desenvolver com qualidade, mas não digitar mais códigos e soluções
 para algo irrelevante.
 
@@ -24,7 +24,7 @@ com melhor qualidade de serviço, de layout, de segurança e principalmente, de 
 
 ## Designer gráfico 🤘
 
-Você designer gráfico, já teve bastante que criar imagens, exportar formatações, comprimir e reduzir imagens, pelo simples fato de seu 
+Você designer gráfico, já teve que criar imagens, exportar formatações, comprimir e reduzir imagens, pelo simples fato de seu 
 cliente né?! E isso de certa forma não danifica apenas eles mesmo mas quanto nós que trabalhamos com designes e planejamentos de layouts,
 muitas vezes pela possibilidade de um usuário não suportar `canvas` tive que utilizar `svg`... ou por não suportar `svg` ter que criar outras
 alternativas.
